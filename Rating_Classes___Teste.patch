@@ -1,0 +1,13 @@
+Index: app/src/main/java/com/dantv/rating/util/RateDialogFeedbackFrag.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/dantv/rating/util/RateDialogFeedbackFrag.java	(revision 1310da07cf1eff41df91d0171e930e0ee41b21ba)
++++ app/src/main/java/com/dantv/rating/util/RateDialogFeedbackFrag.java	(revision )
+@@ -77,3 +77,5 @@
+         dismiss();
+     }
+ }
++
++//TESTE
